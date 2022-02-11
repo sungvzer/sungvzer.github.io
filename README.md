@@ -82,3 +82,8 @@ if needed.
 | Italian  | ●●●●●   | ●●●●●  |
 
 
+## Sources
+
+Read this resume on GitHub Pages: [https://sungvzer.github.io](https://sungvzer.github.io)
+
+Source for this resume: [https://github.com/sungvzer/sungvzer.github.io](https://github.com/sungvzer/sungvzer.github.io)
