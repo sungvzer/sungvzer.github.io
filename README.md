@@ -3,6 +3,12 @@
 Software developing enthusiast since the age of fourteen. Experience with
 mobile, web and backend development.
 
+## Personal info
+
+Address: Via Marano Pianura 49 - Marano di Napoli (NA) - Italy
+
+Birthday: November 19th, 2002
+
 ## Availability
 
 I'm willing to move if needed.
