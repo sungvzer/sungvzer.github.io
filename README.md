@@ -79,6 +79,10 @@ if needed.
 * Analytic and creative mindset
 * Good problem-solving
 
+### WIP
+
+* Gaining insights on the Rust language
+
 ## Languages
 
 
