@@ -32,7 +32,18 @@ Focus on Object-Oriented programming, databases, networks and cloud computing.
 
 ## Work experience
 
-### Cybersecurity Consultant (2021 to Today) at Capgemini
+
+### Software Engineer at Kotuko
+
+#### April 2022 - Today
+
+Software engineer role with a focus on technologies in the Javascript domain, such as Vue and Loopback, with strong attention to containerization with Docker.
+
+Agile methodologies in the day-to-day workflow.
+
+### Cybersecurity Consultant at Capgemini
+
+#### December 2021 - March 2022
 
 Analyst role, focusing on the implementation of secure platforms and infrastructure
 hands-on experience with tools like Qualys, Fortify SAST and DefectDojo.
@@ -50,6 +61,7 @@ Experience with the following programming languages:
 * NodeJS (with Express)
 * HTML, CSS, JavaScript
 * TypeScript
+* React
 
 Experience with the following databases:
 
@@ -68,8 +80,9 @@ Knowledge of the following concepts:
 
 Other technologies:
 
-* Windows and Linux Operating Systems
+* Windows, MacOS and Linux Operating Systems
 * Git version control
+* Containerization with Docker
 
 ### Soft Skills
 
@@ -91,6 +104,18 @@ if needed.
 | English  | ●●●●○   | ●●●○○  |
 | Italian  | ●●●●●   | ●●●●●  |
 
+
+## After 5 P.M.
+
+Whenever work duties are off, I get into all sorts of activities, like:
+
+* Hitting the gym 🏋🏻‍♂️
+* Photography 📸
+* Open Source Projects 🧪
+* Reading books 📖
+* Listening to music 🎵
+* Cooking 🍳
+* ... and many more!
 
 ## Sources
 
